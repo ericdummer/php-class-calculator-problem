@@ -1,4 +1,8 @@
-#Vagrant Instructions
+#Calculator problem
+
+I wrote this application to as an intro to PHP for non developers at my company, who were interested in knowing more.
+
+## Vagrant Instructions
 on the command line type:
 
 ```
